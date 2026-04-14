@@ -1,6 +1,6 @@
 <!-- 🌸✨ Whimsical Pink Aesthetic README ✨🌸 -->
 
-<h1 align="center">🌷✨ Hey, I'm Ria Joshi ✨🌷</h1>
+<h1 align="center">🌷✨ Hiee! I'm Ria ✨🌷</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=CS+Student;Graphics+%26+Gaming+Explorer;Content+Creator+%E2%9C%A8;Building+Cute+%2B+Creative+Things+%F0%9F%8C%B8" />
