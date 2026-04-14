@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/C-ffc0cb?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-ff99cc?style=for-the-badge&logo=git&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-ff66b2?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif">
 </p>
 
 ---
